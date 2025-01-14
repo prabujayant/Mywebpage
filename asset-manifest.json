@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Mywebpage/static/css/main.e490422a.css",
-    "main.js": "/Mywebpage/static/js/main.6d384ee2.js",
-    "static/js/415.4d6acbeb.chunk.js": "/Mywebpage/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/Mywebpage/static/js/787.1ed0c42c.chunk.js",
-    "static/media/news.png": "/Mywebpage/static/media/news.45e731b06fe723dcacf3.png",
-    "static/media/prabur_resume.pdf": "/Mywebpage/static/media/prabur_resume.3ab8c7b19cec9fa62241.pdf",
-    "static/media/home-main.svg": "/Mywebpage/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
-    "static/media/about.png": "/Mywebpage/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/medisync.png": "/Mywebpage/static/media/medisync.b0bd60a8e1536ebff671.png",
-    "static/media/image.png": "/Mywebpage/static/media/image.81a8731364df2a4edc80.png",
-    "static/media/bookstore.png": "/Mywebpage/static/media/bookstore.cae5bf0a882025194892.png",
-    "static/media/avatar.svg": "/Mywebpage/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
-    "static/media/pre.svg": "/Mywebpage/static/media/pre.4410c5baaa673cc131da.svg",
-    "index.html": "/Mywebpage/index.html",
-    "main.e490422a.css.map": "/Mywebpage/static/css/main.e490422a.css.map",
-    "main.6d384ee2.js.map": "/Mywebpage/static/js/main.6d384ee2.js.map",
-    "415.4d6acbeb.chunk.js.map": "/Mywebpage/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/Mywebpage/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/Prabu-Portfolio/static/css/main.ac69f655.css",
+    "main.js": "/Prabu-Portfolio/static/js/main.726a1e4a.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Prabu-Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Prabu-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/news.png": "/Prabu-Portfolio/static/media/news.45e731b06fe723dcacf3.png",
+    "static/media/prabur_resume.pdf": "/Prabu-Portfolio/static/media/prabur_resume.3ab8c7b19cec9fa62241.pdf",
+    "static/media/home-main.svg": "/Prabu-Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/Prabu-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/medisync.png": "/Prabu-Portfolio/static/media/medisync.b0bd60a8e1536ebff671.png",
+    "static/media/image.png": "/Prabu-Portfolio/static/media/image.81a8731364df2a4edc80.png",
+    "static/media/bookstore.png": "/Prabu-Portfolio/static/media/bookstore.cae5bf0a882025194892.png",
+    "static/media/avatar.svg": "/Prabu-Portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/Prabu-Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/Prabu-Portfolio/index.html",
+    "main.ac69f655.css.map": "/Prabu-Portfolio/static/css/main.ac69f655.css.map",
+    "main.726a1e4a.js.map": "/Prabu-Portfolio/static/js/main.726a1e4a.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Prabu-Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Prabu-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e490422a.css",
-    "static/js/main.6d384ee2.js"
+    "static/css/main.ac69f655.css",
+    "static/js/main.726a1e4a.js"
   ]
 }
